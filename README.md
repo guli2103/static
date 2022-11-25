@@ -1,3 +1,3 @@
 ### Static fayl
 
-<img src ="gif/animation.gif.mp4" alt= "gif">
+<img src ="{% static 'gif/animation.gif.mp4' %}" alt= "gif">
